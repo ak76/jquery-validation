@@ -1,0 +1,15 @@
+{
+  "name": "jquery-validation",
+  "repo": "component/jquery-validation",
+  "version": "1.0.0",
+  "main": "jquery-validation.js",
+  "scripts": [
+    "src/ajax.js",
+    "src/core.js"
+  ],
+  "files": [
+    "src/additional/",
+    "src/localization/"
+  ],
+  "dependencies": {}
+}
