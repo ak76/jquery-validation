@@ -1,0 +1,33 @@
+{
+  "name": "ak76/jquery-validation",
+  "description": "jquery validation",
+  "type": "component",
+  "keywords": [
+    "jquery",
+    "javascript"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Kondratenko",
+      "email": "aak1976@gmail.com"
+    }
+  ],
+  "require": {
+    "components/jquery": "1.9.1 - 3"
+  },
+  "suggest": {
+  },
+  "extra": {
+    "component": {
+      "scripts": [
+        "src/core.js",
+        "src/ajax.js"
+      ],
+      "files": [
+        "src/*",
+        "src/**/*"
+      ]
+    }
+  }
+}
