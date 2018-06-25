@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "main": "jquery-validation.js",
   "scripts": [
-    "src/ajax.js",
-    "src/core.js"
+    "src/core.js",
+    "src/ajax.js"
   ],
   "files": [
-    "src/additional/",
-    "src/localization/"
+    "src/*",
+    "src/**/*"
   ],
   "dependencies": {}
 }
